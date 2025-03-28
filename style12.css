@@ -274,6 +274,7 @@ textarea {
 
 
 main {
+             align-items: center;
             display: flex;
             justify-content: space-around;
             flex-wrap: wrap;
@@ -298,6 +299,7 @@ main {
         form input, form textarea {
             width: 100%;
             padding: 10px;
+            margin-left: 10px ;
             margin: 10px 0;
             border: 1px solid #ccc;
             border-radius: 5px;
