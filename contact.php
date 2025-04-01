@@ -94,7 +94,7 @@
         <main>
             <section class="contact-info">
                 <h2><u>Address</u></h2>
-                <p>18/2-A, Industrial Area, Behind CRI Pumps, Chinnavedampatti, Coimbatore - 641 006.</p>
+                <p>18/2-A, Industrial Area, <br>Behind CRI Pumps, <br>Chinnavedampatti,<br> Coimbatore - 641 006.</p>
                 <h2><u>Call Us</u></h2>
                 <p>📞 <a href="tel:(+91) 99422 18801" class="a">+91 99422 18801</a></p>
                 <h2><u>Email Us</u></h2>
