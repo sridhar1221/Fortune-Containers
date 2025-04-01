@@ -99,6 +99,7 @@
                 <p>📞 <a href="tel:(+91) 99422 18801" class="a">+91 99422 18801</a></p>
                 <h2><u>Email Us</u></h2>
                 <p>📧 <a href="#" class="a"> fortunepet@gmail.com</a></p>
+                      
             </section>
             <section class="contact-form">
                 <form action="send_mail.php" method="POST" onsubmit="validateCaptcha(event)">
@@ -107,7 +108,6 @@
                     <input type="text" name="mobile" placeholder="Your Mobile No:" required>
                     <textarea name="message" placeholder="Message" required></textarea>
                     
-                    <!-- CAPTCHA Section -->
                     <label for="captcha">Enter the CAPTCHA:</label>
                     <div id="captcha-text" style="font-size: 20px; font-weight: bold; margin-bottom: 10px;"></div>
                     <input type="text" id="captcha-input" placeholder="Enter CAPTCHA" required>
