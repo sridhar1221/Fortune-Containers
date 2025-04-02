@@ -15,16 +15,7 @@ body {
     position: relative;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
-/* .header1 {
-    background-image: url('back.jpg');
-    color: white;
-    text-align: center;
-    padding: 10px;
-    font-size: 15px;
-    font-weight: bold;
-    position: relative;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-} */
+
 .header .call {
     /* position: absolute; */
     margin-top: 20px;
